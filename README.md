@@ -7,7 +7,7 @@
 | 文件夹 | 内容说明 |
 |--------|----------|
 | `code/` | 预测模型代码：数据加载、模型定义、训练、损失函数、评估指标、物理特征计算、可视化 |
-| `demo/` | 演示相关：`demo_video.py` 视频处理，`demo_presentation.mp4` 展示视频 |
+| `demo/` | 演示相关：`demo_video.py` 视频处理，`demo_presentation.mp4` 预测模型展示视频 |
 | `docs/` | 设计文档：系统框架图、架构图等 |
 | `models/` | 模型文件：`yolov8n-pose.pt`（原始）、`yolov8n-pose.rknn`（板端部署）、`best_model.pt`（训练所得） |
 
